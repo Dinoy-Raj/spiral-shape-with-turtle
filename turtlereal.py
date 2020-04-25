@@ -5,7 +5,8 @@ wn.bgcolor("green")
 elan = turtle.Turtle()
 elan.color("blue")
 elan.shape("turtle")
-
+elan.speed(20)
+elan.pensize(3)
 elan.up()
 distance = 5
 an=24
